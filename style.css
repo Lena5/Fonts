@@ -1,0 +1,157 @@
+body {
+	background-color: #a0726f;
+}
+
+#top {
+	background-color: #ad8684;
+	height: 193px;
+	width: 101.3%;
+	display: inline-block;
+	margin-top: -10px;
+	margin-left: -10px;
+	margin-top: -30px;
+}
+
+#h1 {
+	display: inline-block;
+	font-family: sans-serif;
+	color: #f8f4f4;
+	text-transform: uppercase;
+	margin-top: 50px;
+	margin-left: 50px;
+	font-size: 26px; 
+}
+
+#border1 {
+	border-style: solid;
+	border-width: 2px;
+	margin-top: 20px;
+	margin-left: 50px;
+	margin-right: 1260px;
+	color: #f8f4f4;
+}
+
+#h2 {
+	font-family: serif;
+	color: #f8f4f4;
+	font-size: 26px;
+	margin-left: 50px;
+	margin-top: 20px;
+}
+
+#h3 {
+	font-family: serif;
+	color: #f8f4f4;
+	font-size: 52px;
+	margin-left: 50px;
+	margin-top: 50px;
+}
+
+#paragraph1 {
+	font-family: serif;
+	color: #f8f4f4;
+	font-size: 20px;
+	margin-left: 50px;
+	margin-top: 30px;
+}
+
+#h4 {
+	font-family: sans-serif;
+	color: #f8f4f4;
+	font-size: 52px;
+	margin-left: 50px;
+	margin-top: 50px;
+}
+
+#paragraph2 {
+	font-family: sans-serif;
+	color: #f8f4f4;
+	font-size: 17px;
+	margin-left: 50px;
+	margin-top: 33px;	
+}
+
+#side-border1 {
+	border-collapse: separate;
+ 	border-left-style: solid;
+ 	border-spacing: 10px;
+	height: 310px;
+	color: #c8aead;
+	margin-left: 420px;
+	margin-top: -310px; 
+}
+
+#h5 {
+	font: 400 130px/0.8 'Great Vibes', Helvetica, sans-serif;
+	font-size: 52px;
+	color: #f8f4f4;
+	margin-left: 490px;
+	margin-top: -297px;
+}
+
+#paragraph3 {
+	font-family: sans-serif;
+	color: #f8f4f4;
+	font-size: 17px;
+	margin-left: 490px;
+	margin-top: 33px;
+}
+
+#h6 {
+	font: 400 3.5em/125% 'Sanchez', serif;
+	font-size: 52px;
+	color: #f8f4f4;
+	margin-left: 490px;
+	margin-top: 50px;
+}
+
+#paragraph4 {
+	font-family: sans-serif;
+	color: #f8f4f4;
+	font-size: 17px;
+	margin-left: 490px;
+	margin-top: 30px;
+}
+
+#side-border2 {
+	border-collapse: separate;
+ 	border-left-style: solid;
+ 	border-spacing: 10px;
+	height: 310px;
+	color: #c8aead;
+	margin-left: 900px;
+	margin-top: -310px;
+}
+
+#h7 {
+	font-family: sans-serif;
+	text-transform: uppercase;
+	color: #f8f4f4;
+	font-size: 52px;
+	margin-top: -310px;
+	margin-left: 960px;
+}
+
+#paragraph5 {
+	font-family: sans-serif;
+	color: #f8f4f4;
+	font-size: 17px;
+	margin-left: 960px;
+	margin-top: 27px;
+}
+
+#h8 {
+	font-family: sans-serif;
+	font-size: 52px;
+	color: #f8f4f4;
+	margin-left: 958px;
+	margin-top: 50px;
+}
+
+#paragraph6 {
+	font-family: sans-serif;
+	font-size: 17px;
+	color: #f8f4f4;
+	margin-left: 958px;
+	margin-top: 31px;
+}
